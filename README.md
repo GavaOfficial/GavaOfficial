@@ -33,9 +33,7 @@ interests: ["Programmazione", "Tecnologia", "Open Source"]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavaOfficial&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
 
-## Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GavaOfficial/GavaOfficial/output/github-snake-dark.svg" alt="Snake animation" />
